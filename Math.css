@@ -1,0 +1,10 @@
+button{
+text-align:center;
+font-size:100px;
+background-color:blue;
+color:yellow;
+}
+body{
+    background:linear-gradient(to right, red, orange, yellow, green, blue, purple, pink);
+    color:black;
+}
